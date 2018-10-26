@@ -1,4 +1,6 @@
-
+// For your final project you will be writing the code for "MazeRunner", a program that navigates
+// through a given maze. The code for the Maze is already written, and provided in "Maze.java".
+// You just need to write the code that uses Maze and decides how to move through it.
 
 
 import java.util.*;
